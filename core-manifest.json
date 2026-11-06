@@ -1,0 +1,13 @@
+{
+  "packages/core/src/ziwei/config.py": "c9e43d83d2b48dc2e4b26ab752d505db298dc690804518bf197e88499b7577d8",
+  "packages/core/src/ziwei/models.py": "eb37db22ee72d6fdaeb38733e82007a6be7aa9a56794fef27f70b27120f5395b",
+  "packages/core/src/ziwei/constants.py": "08436e8d0e721ef3520b38780dce9679308d67068d2672190314ead63d9cd1dd",
+  "packages/core/src/ziwei/__init__.py": "37e183a7d0cd87adbc972252b1f4271280f19dd0b9375e81e349fe0c4ac226b3",
+  "packages/core/src/ziwei/stars.py": "83fa72c0ed2537ae9f4c2f7f37a1423fbbb43c0ab3953ff3bde1bfc68b90dc33",
+  "packages/core/src/ziwei/location.py": "0ca50676d67c27363ce8213d717b8a2784a8e9b36f95ff30ec41e42f0fc093ff",
+  "packages/core/src/ziwei/calendar.py": "a32d91749c09e893956a192d880e15fa252e80aaf79bdf96a84fc0e9002419a7",
+  "packages/core/src/ziwei/utils.py": "5075b94f5f12438e6dcf37bf397dc3c18d73af678cae65a43bcae8bb4fdcb341",
+  "packages/core/src/ziwei/astro.py": "a75595cfa855da3035c9d556faf11c869382f47a8848e0dd36cc568e4913abd8",
+  "packages/core/src/ziwei/palace.py": "5ff2351041c4bebba4d95eae28a7a0282651ea02ac1a39bd97ebb75d9859e2f5",
+  "packages/core/src/ziwei/data.py": "316b0cee6ee5682d695e12cde4e59343e4ac6eb69e25ece01e61a53a5a7870b8"
+}
